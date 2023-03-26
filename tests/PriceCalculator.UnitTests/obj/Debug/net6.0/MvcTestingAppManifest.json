@@ -1,0 +1,5 @@
+{
+  "Route256.PriceCalculator.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C#\\Ozon\\Route256\\homework3\\homework-3\\src\\Route256.PriceCalculator.Api",
+  "Route256.PriceCalculator.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C#\\Ozon\\Route256\\homework3\\homework-3\\src\\Route256.PriceCalculator.Domain",
+  "Route256.PriceCalculator.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C#\\Ozon\\Route256\\homework3\\homework-3\\src\\Route256.PriceCalculator.Infrastructure"
+}

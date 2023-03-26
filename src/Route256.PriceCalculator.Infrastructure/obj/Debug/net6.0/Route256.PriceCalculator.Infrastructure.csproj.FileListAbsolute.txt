@@ -1,0 +1,15 @@
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\bin\Debug\net6.0\Route256.PriceCalculator.Infrastructure.deps.json
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\bin\Debug\net6.0\Route256.PriceCalculator.Infrastructure.dll
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\bin\Debug\net6.0\Route256.PriceCalculator.Infrastructure.pdb
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\bin\Debug\net6.0\Route256.PriceCalculator.Domain.dll
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\bin\Debug\net6.0\Route256.PriceCalculator.Domain.pdb
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.AssemblyInfo.cs
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.csproj.CopyComplete
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.dll
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\refint\Route256.PriceCalculator.Infrastructure.dll
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\Route256.PriceCalculator.Infrastructure.pdb
+D:\C#\Ozon\Route256\homework3\homework-3\src\Route256.PriceCalculator.Infrastructure\obj\Debug\net6.0\ref\Route256.PriceCalculator.Infrastructure.dll
